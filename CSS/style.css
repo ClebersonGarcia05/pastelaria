@@ -43,11 +43,11 @@ body{
     left: 225px;
 }
 .foto{
-    width: 15%;
+    width: 10%;
     position: absolute;
     bottom: 0;
-    left: 0;
-    top: 14px;
+    left: 30px;
+    top: 15px;
 }
 #whatsapp{
     width: 100%;
